@@ -9,6 +9,8 @@
 - خريطة للخدمات القريبة (الشرطة، المستشفيات، الصيدليات)
 - شبكة خدمات منظّمة (الكهرباء، الماء، الاتصالات…)
 
+ملاحظة: التطبيق قيد التطوير حاليًا ولم يصبح متاحًا للاستخدام بعد.
+
 ## English
 SOS Maroc is a mobile emergency services app that helps people in Morocco quickly reach help. The app provides one‑tap emergency calling, a dedicated panic flow, and a map to find nearby essential services such as police stations, hospitals, pharmacies, and fire stations. The goal is to reduce response time and make urgent help accessible from a clean, modern interface.
 
@@ -17,3 +19,5 @@ Key features:
 - Panic button with call + location SMS
 - Nearby services map (police, hospitals, pharmacies)
 - Organized services grid (electricity, water, telecom, etc.)
+
+Note: The application is currently under development and is not yet available for use.
