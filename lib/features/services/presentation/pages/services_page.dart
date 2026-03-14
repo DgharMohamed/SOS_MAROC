@@ -7,10 +7,8 @@ class ServicesPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(
-      body: Center(
-        child: Text('Services screen coming soon'),
-      ),
+    return const SafeArea(
+      child: Center(child: Text('Services screen coming soon')),
     );
   }
 }

@@ -7,10 +7,8 @@ class SettingsPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(
-      body: Center(
-        child: Text('Settings screen coming soon'),
-      ),
+    return const SafeArea(
+      child: Center(child: Text('Settings screen coming soon')),
     );
   }
 }
